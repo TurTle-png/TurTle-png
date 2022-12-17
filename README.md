@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)]
+(img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif")
 <h1 align="center">🦖 TurTle-png</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle-png&label=Profile%20views&color=0e75b6&style=flat" alt="turtle-png" /> </p>
 
