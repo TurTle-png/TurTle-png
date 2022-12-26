@@ -1,5 +1,5 @@
 <h1 align="center">🦖 TurTle-png</h1>
-<p align="left"> <img src="https://gpvc.arturio.dev/TurTle-png" alt="turtle-png" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle-png&label=Profile%20views&color=0e75b6&style=flat" alt="turtle-png" /> </p>
 
 - 🌀 I’m currently working on [syroxware.tk](https://syroxware.tk/)
 
