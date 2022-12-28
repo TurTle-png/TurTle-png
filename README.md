@@ -1,7 +1,7 @@
 <h1 align="center">🦖 TurTle-png</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle-png&label=Profile%20views&color=0e75b6&style=flat" alt="turtle-png" /> </p>
 
-- 🌀 I’m currently working on [Kurai | 2022 🧊]([https://syroxware.tk/](https://discord.gg/pkRH2UFXSS))
+- 🌀 I’m currently working on [Kurai | 2022 🧊](https://discord.gg/pkRH2UFXSS)
 
 - 🌱 I’m currently learning [C++,HTML](https://visualstudio.microsoft.com/de/)
 
