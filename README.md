@@ -1,23 +1,53 @@
-<h1 align="center">🦖 TurTle-png</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turtle-png&label=Profile%20views&color=0e75b6&style=flat" alt="turtle-png" /> </p>
-
-- 🌀 I’m currently working on [Trastic | 2023 🧊](https://discord.gg/trastic)
-
-- 🌱 I’m currently learning [C++,HTML](https://visualstudio.microsoft.com/de/)
-
-- 🤝 I’m working with [C#,C++,HTML](https://visualstudio.microsoft.com/de/)
-
-- 📫 How to reach me [!TurTle#2096](https://discord.com/login)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TurTle-png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TurTle-png" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/TurTle-png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="TurTle-png" height="30" width="40" /></a>
-<a href="https://discord.gg/cWjdCTBJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cWjdCTBJ" height="30" width="40" /></a>
+<h1 align="center">TurTle-png</h1>
+<p align="center">
+  Software Developer · Engineering Mindset · Clean Code
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TurTle-png&style=flat&color=0d1117" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=turtle-png&show_icons=true&locale=en&layout=compact" alt="turtle-png" /></p>
+---
 
+## Profile
+Software Developer with a strong focus on **maintainable systems**, **performance**, and **clear abstractions**.  
+I value pragmatic solutions, solid fundamentals, and continuous improvement.
+
+---
+
+## Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"/>
+</p>
+
+---
+
+## GitHub Metrics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TurTle-png&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=TurTle-png&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Language Distribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurTle-png&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TurTle-png&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TurTle-png&theme=github_dark&no-frame=true&row=1"/>
+</p>
