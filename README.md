@@ -9,7 +9,7 @@
 
 <p align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=TurTle-png&theme=github-dark&hide_border=true" />
-</p>>
+</p>
 
 ---
 
