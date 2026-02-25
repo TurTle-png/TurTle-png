@@ -7,10 +7,10 @@
 
 ---
 
-## Overview
 <p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=TurTle-png&theme=github-dark&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurTle-png&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-</p>
+</p>>
 
 ---
 
