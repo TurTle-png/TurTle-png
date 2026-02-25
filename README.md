@@ -9,7 +9,7 @@
 
 ## Overview
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=TurTle-png&theme=github-dark&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TurTle-png&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -21,12 +21,6 @@
 
 ---
 
-## Language Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurTle-png&layout=compact&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TurTle-png&theme=github_dark" />
-</p>
-
 ---
 
 ## GitHub Metrics
@@ -36,8 +30,3 @@
 </p>
 
 ---
-
-## Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TurTle-png&theme=github_dark&no-frame=true&row=1&column=6" />
-</p>
